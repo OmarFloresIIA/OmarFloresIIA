@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hola, soy <a href="https://github.com/TuUsuario">OmarFloresIIA</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hola, soy <a href="https://github.com/TuUsuario">Omar Flores</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <br>
 
 <h1>Sobre mí 😎</h1>
@@ -22,7 +22,7 @@
 <p align="center">
 <a href="mailto:tuemail@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/tuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/TuUsuario" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-TuUsuario-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/OmarFloresIIA" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-TuUsuario-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <hr><br>
