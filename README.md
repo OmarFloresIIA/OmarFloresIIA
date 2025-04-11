@@ -37,7 +37,7 @@
 <h1>Herramientas que utilizo 🛠️</h1>
 <br>
 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)|![](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)|
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=C++&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)|![](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)|
 |---|---|---|---|---|
 
 <hr><br>
