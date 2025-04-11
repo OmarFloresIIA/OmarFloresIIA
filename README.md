@@ -20,9 +20,9 @@
 <h1 align="center">¡Contáctame! 📬</h1>
 <br>
 <p align="center">
-<a href="mailto:tuemail@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/tuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:floresolivaresomar@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/floresolivaresomar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/OmarFloresIIA" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-TuUsuario-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/OmarFloresIIA" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-OmarFloresIIA-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <hr><br>
