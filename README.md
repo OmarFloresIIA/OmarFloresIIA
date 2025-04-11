@@ -31,9 +31,7 @@
 <br>
 
 |![](https://img.shields.io/badge/Programación-Python-blue?style=for-the-badge)|![](https://img.shields.io/badge/Electrónica%20Digital-green?style=for-the-badge)|![](https://img.shields.io/badge/Arduino-Informativo?style=for-the-badge&logo=arduino)|![](https://img.shields.io/badge/Diseño%20Web-gray?style=for-the-badge)
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Redes%20Neuronales-purple?style=for-the-badge)|![](https://img.shields.io/badge/Proyectos%20Creativos-orange?style=for-the-badge)|![](https://img.shields.io/badge/Automatización%20de%20Fallos-red?style=for-the-badge)|![](https://img.shields.io/badge/Tecnología%20Educativa-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Y%20más...-lightgrey?style=for-the-badge)|
-
+|![](https://img.shields.io/badge/Proyectos%20Creativos-orange?style=for-the-badge)|![](https://img.shields.io/badge/Automatización%20de%20Fallos-red?style=for-the-badge)|![](https://img.shields.io/badge/Tecnología%20Educativa-yellow?style=for-the-badge)|
 <hr><br>
 
 <h1>Herramientas que utilizo 🛠️</h1>
