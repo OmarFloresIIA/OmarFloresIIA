@@ -46,8 +46,7 @@
 <br>
 
 - 📶 Sistema inteligente de monitoreo de conectividad y electricidad para aulas universitarias.
-- 🤖 Bot de asistencia para estudiantes que recomienda redes WiFi funcionales en tiempo real.
-- 🎨 Composición floral en forma de abanico, curva de Hogarth, esfera y más.
+- 🎨 Diseño de Robot Siguelineas con estilo de Gary (de la serie Bob Esponja)
 - 📊 Panel de visualización de fallos y diagnósticos automáticos para técnicos escolares.
 
 <hr><br>
