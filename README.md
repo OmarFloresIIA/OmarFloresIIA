@@ -2,16 +2,15 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hola, soy <a href="https://github.com/TuUsuario">[Tu Nombre]</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hola, soy <a href="https://github.com/TuUsuario">OmarFloresIIA</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <br>
 
 <h1>Sobre mí 😎</h1>
 
 - 🎓: Estudiante de Ingeniería Electrónica en la UAM e Ingeniería en Inteligencia Artificial en el IPN.
 - 🧠: Apasionado por la programación, electrónica, diseño e innovación.
-- 🎨: Me encanta el arte plástico y personalizar mis proyectos, desde circuitos hasta mi CV.
-- 🔌: Actualmente trabajando en un sistema inteligente de monitoreo para infraestructura escolar.
-- 🌐: Quiero integrar IA para diagnóstico automático, gestión de datos y chatbots útiles para estudiantes.
+- 🎨: Me encantan las artes plásticas y personalizar mis proyectos, desde circuitos hasta manualidades.
+- 🔌: Actualmente estudiando lenguajes de programación.
 - 💻: Me interesa combinar software, hardware e interfaces web de manera funcional y estética.
 - 😄: Soy una persona introvertida, organizada y siempre en busca de mejorar.
 - 📅: Me gusta planear mis actividades y entregar todo con puntualidad.
